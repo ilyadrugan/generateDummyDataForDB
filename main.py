@@ -701,7 +701,7 @@ fake = Faker()
 # with open("dummydata/products.csv", "w") as file:
 #     for i in range(100):
 #         if i==0:
-#             file.write('"ProductID","ProductName","Price","Description","Category"'+'\n')
+#             file.write('"ProductID","ProductName","Price","Description","CategoryID"'+'\n')
 #         else:
 #             product_id = i
 #             product_name = productNamesAndDesc[i].split(' - ')[0]

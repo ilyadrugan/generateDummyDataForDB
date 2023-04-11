@@ -1,4 +1,4 @@
-"ProductID","ProductName","Price","Description","Category"
+"ProductID","ProductName","Price","Description","CategoryID"
 "1","AquaMist","38834","The water that hydrates and mystifies.","5"
 "2","SwiftCharge","10310","The energy drink that gives you wings... and lightning bolts.","1"
 "3","OnyxGlow","30855","The highlighter that illuminates your soul... and your cheekbones.","2"
